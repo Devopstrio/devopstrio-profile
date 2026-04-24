@@ -1,10 +1,10 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://raw.githubusercontent.com/Devopstrio/.github/main/assets/Browser_logo.png" height="72" alt="Devopstrio Logo" />
 
 <h1>Devopstrio</h1>
 
-<p><strong>Enterprise Cloud &nbsp;Â·&nbsp; AI &nbsp;Â·&nbsp; DevOps Acceleration</strong></p>
+<p><strong>Enterprise Cloud &nbsp;&middot;&nbsp; AI &nbsp;&middot;&nbsp; DevOps Acceleration</strong></p>
 
 [![Website](https://img.shields.io/badge/Website-devopstrio.co.uk-522c72?style=for-the-badge&labelColor=0d0d0d)](https://devopstrio.co.uk/)
   <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/Repos-180+_Public-962964?style=for-the-badge&labelColor=0d0d0d" alt="Repos"/></a>
@@ -14,83 +14,83 @@
 
 <br/>
 
-> **Building the future of enterprise infrastructure â€” one blueprint at a time.**
+> **Building the future of enterprise infrastructure &mdash; one blueprint at a time.**
 > 
-> 180+ open-source accelerators &nbsp;Â·&nbsp; 15 technology domains &nbsp;Â·&nbsp; 3 cloud providers &nbsp;Â·&nbsp; 100% production-grade
+> 180+ open-source accelerators &nbsp;&middot;&nbsp; 15 technology domains &nbsp;&middot;&nbsp; 3 cloud providers &nbsp;&middot;&nbsp; 100% production-grade
 
 </div>
 
 ---
 
-## âš¡ Core Service Portfolio
+## ÃƒÂ¢Ã…Â¡Ã‚Â¡ Core Service Portfolio
 
 > Enterprise-grade solutions designed for immediate deployment and lasting impact.
 
 | # | Service | Description |
 |:---:|:---|:---|
-| 01 | â˜ï¸ **Enterprise Landing Zone** | CAF-aligned Azure Â· AWS Â· GCP governance foundations with policy-as-code |
-| 02 | ðŸ¤– **AI Landing Zone** â­ | Secure OpenAI Â· Bedrock Â· Vertex AI with enterprise RAG pipelines |
-| 03 | ðŸ“Š **Data Landing Zone** | Fabric Â· Databricks Â· Snowflake Â· Synapse lakehouse architectures |
-| 04 | âš™ï¸ **DevOps Transformation** | CI/CD Â· IaC Â· GitOps Â· Platform Engineering accelerators |
-| 05 | ðŸ” **Security & Zero Trust** | Identity Â· Network segmentation Â· Compliance automation |
-| 06 | ðŸ’° **FinOps & Cost Optimization** | Spend control Â· Anomaly detection Â· Chargeback automation |
+| 01 | ÃƒÂ¢Ã‹Å“Ã‚ÂÃƒÂ¯Ã‚Â¸Ã‚Â **Enterprise Landing Zone** | CAF-aligned Azure Ãƒâ€šÃ‚Â· AWS Ãƒâ€šÃ‚Â· GCP governance foundations with policy-as-code |
+| 02 | ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€œ **AI Landing Zone** ÃƒÂ¢Ã‚Â­Ã‚Â | Secure OpenAI Ãƒâ€šÃ‚Â· Bedrock Ãƒâ€šÃ‚Â· Vertex AI with enterprise RAG pipelines |
+| 03 | ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã…Â  **Data Landing Zone** | Fabric Ãƒâ€šÃ‚Â· Databricks Ãƒâ€šÃ‚Â· Snowflake Ãƒâ€šÃ‚Â· Synapse lakehouse architectures |
+| 04 | ÃƒÂ¢Ã…Â¡Ã¢â€žÂ¢ÃƒÂ¯Ã‚Â¸Ã‚Â **DevOps Transformation** | CI/CD Ãƒâ€šÃ‚Â· IaC Ãƒâ€šÃ‚Â· GitOps Ãƒâ€šÃ‚Â· Platform Engineering accelerators |
+| 05 | ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â **Security & Zero Trust** | Identity Ãƒâ€šÃ‚Â· Network segmentation Ãƒâ€šÃ‚Â· Compliance automation |
+| 06 | ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â° **FinOps & Cost Optimization** | Spend control Ãƒâ€šÃ‚Â· Anomaly detection Ãƒâ€šÃ‚Â· Chargeback automation |
 
 ---
 
-## ðŸ“ Repository Architecture
+## ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã‚Â Repository Architecture
 
 ```
 Devopstrio/
-â”œâ”€â”€ ðŸ—ï¸  Cloud & Landing Zones
-â”‚   â”œâ”€â”€ enterprise-landing-zone          # CAF-aligned multi-cloud foundation
-â”‚   â”œâ”€â”€ azure-enterprise-landing-zone-starter
-â”‚   â”œâ”€â”€ devopstrio-landing-zone          # â­ Flagship
-â”‚   â””â”€â”€ architecture-blueprints
-â”‚
-â”œâ”€â”€ ðŸ¤–  AI & Data
-â”‚   â”œâ”€â”€ ai-landing-zone
-â”‚   â”œâ”€â”€ azure-openai-secure-reference
-â”‚   â”œâ”€â”€ data-platform-zone
-â”‚   â””â”€â”€ data-lakehouse-blueprint
-â”‚
-â”œâ”€â”€ âš™ï¸  DevOps & Automation
-â”‚   â”œâ”€â”€ devops-accelerator
-â”‚   â”œâ”€â”€ devsecops-pipeline-templates
-â”‚   â”œâ”€â”€ terraform-modules
-â”‚   â”œâ”€â”€ terraform-enterprise-networking  # â­ Featured
-â”‚   â””â”€â”€ bicep-modules
-â”‚
-â”œâ”€â”€ ðŸ”  Security & Compliance
-â”‚   â”œâ”€â”€ security-baselines
-â”‚   â””â”€â”€ zero-trust-reference-model
-â”‚
-â””â”€â”€ ðŸ“¦  Accelerators
-    â”œâ”€â”€ starter-kits
-    â””â”€â”€ cloud-finops-dashboard
+ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ ÃƒÂ°Ã…Â¸Ã‚ÂÃ¢â‚¬â€ÃƒÂ¯Ã‚Â¸Ã‚Â  Cloud & Landing Zones
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ enterprise-landing-zone          # CAF-aligned multi-cloud foundation
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ azure-enterprise-landing-zone-starter
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ devopstrio-landing-zone          # ÃƒÂ¢Ã‚Â­Ã‚Â Flagship
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬ÂÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ architecture-blueprints
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡
+ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€œ  AI & Data
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ ai-landing-zone
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ azure-openai-secure-reference
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ data-platform-zone
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬ÂÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ data-lakehouse-blueprint
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡
+ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ ÃƒÂ¢Ã…Â¡Ã¢â€žÂ¢ÃƒÂ¯Ã‚Â¸Ã‚Â  DevOps & Automation
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ devops-accelerator
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ devsecops-pipeline-templates
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ terraform-modules
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ terraform-enterprise-networking  # ÃƒÂ¢Ã‚Â­Ã‚Â Featured
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬ÂÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ bicep-modules
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡
+ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â  Security & Compliance
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ security-baselines
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡   ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬ÂÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ zero-trust-reference-model
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬Å¡
+ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬ÂÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã‚Â¦  Accelerators
+    ÃƒÂ¢Ã¢â‚¬ÂÃ…â€œÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ starter-kits
+    ÃƒÂ¢Ã¢â‚¬ÂÃ¢â‚¬ÂÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ÃƒÂ¢Ã¢â‚¬ÂÃ¢â€šÂ¬ cloud-finops-dashboard
 ```
 
 ---
 
-## ðŸŒŸ Flagship Open-Source Repos
+## ÃƒÂ°Ã…Â¸Ã…â€™Ã…Â¸ Flagship Open-Source Repos
 
 <div align="center">
 
 | Repository | Domain | Stars |
 |:---|:---:|:---:|
-| [devopstrio-landing-zone](https://github.com/Devopstrio/devopstrio-landing-zone) | â˜ï¸ Cloud | â­ |
-| [terraform-enterprise-networking](https://github.com/Devopstrio/terraform-enterprise-networking) | ðŸŒ Networking | â­ |
-| [azure-openai-secure-reference](https://github.com/Devopstrio/azure-openai-secure-reference) | ðŸ¤– AI | |
-| [aks-production-foundation](https://github.com/Devopstrio/aks-production-foundation) | âš™ï¸ DevOps | |
-| [devsecops-pipeline-templates](https://github.com/Devopstrio/devsecops-pipeline-templates) | ðŸ” Security | |
-| [cloud-finops-dashboard](https://github.com/Devopstrio/cloud-finops-dashboard) | ðŸ’° FinOps | |
-| [data-lakehouse-blueprint](https://github.com/Devopstrio/data-lakehouse-blueprint) | ðŸ“Š Data | |
-| [zero-trust-reference-model](https://github.com/Devopstrio/zero-trust-reference-model) | ðŸ” Security | |
+| [devopstrio-landing-zone](https://github.com/Devopstrio/devopstrio-landing-zone) | ÃƒÂ¢Ã‹Å“Ã‚ÂÃƒÂ¯Ã‚Â¸Ã‚Â Cloud | ÃƒÂ¢Ã‚Â­Ã‚Â |
+| [terraform-enterprise-networking](https://github.com/Devopstrio/terraform-enterprise-networking) | ÃƒÂ°Ã…Â¸Ã…â€™Ã‚Â Networking | ÃƒÂ¢Ã‚Â­Ã‚Â |
+| [azure-openai-secure-reference](https://github.com/Devopstrio/azure-openai-secure-reference) | ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€œ AI | |
+| [aks-production-foundation](https://github.com/Devopstrio/aks-production-foundation) | ÃƒÂ¢Ã…Â¡Ã¢â€žÂ¢ÃƒÂ¯Ã‚Â¸Ã‚Â DevOps | |
+| [devsecops-pipeline-templates](https://github.com/Devopstrio/devsecops-pipeline-templates) | ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â Security | |
+| [cloud-finops-dashboard](https://github.com/Devopstrio/cloud-finops-dashboard) | ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â° FinOps | |
+| [data-lakehouse-blueprint](https://github.com/Devopstrio/data-lakehouse-blueprint) | ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã…Â  Data | |
+| [zero-trust-reference-model](https://github.com/Devopstrio/zero-trust-reference-model) | ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â Security | |
 
 </div>
 
 ---
 
-## â˜ï¸ Multicloud Coverage
+## ÃƒÂ¢Ã‹Å“Ã‚ÂÃƒÂ¯Ã‚Â¸Ã‚Â Multicloud Coverage
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Devopstrio/
 
 ---
 
-## ðŸ› ï¸ Technology Stack
+## ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂºÃ‚Â ÃƒÂ¯Ã‚Â¸Ã‚Â Technology Stack
 
 <div align="center">
 
@@ -119,10 +119,12 @@ Devopstrio/
 
 <div align="center">
 
-[![Visit Website](https://img.shields.io/badge/ðŸš€_Explore_Our_Work-devopstrio.co.uk-e79e57?style=for-the-badge&labelColor=522c72)](https://devopstrio.co.uk/)
+[![Visit Website](https://img.shields.io/badge/ÃƒÂ°Ã…Â¸Ã…Â¡Ã¢â€šÂ¬_Explore_Our_Work-devopstrio.co.uk-e79e57?style=for-the-badge&labelColor=522c72)](https://devopstrio.co.uk/)
 
-â­ **Star our repos** Â· ðŸ‘ï¸ **Watch for updates** Â· ðŸ´ **Fork and accelerate**
+ÃƒÂ¢Ã‚Â­Ã‚Â **Star our repos** Ãƒâ€šÃ‚Â· ÃƒÂ°Ã…Â¸Ã¢â‚¬ËœÃ‚ÂÃƒÂ¯Ã‚Â¸Ã‚Â **Watch for updates** Ãƒâ€šÃ‚Â· ÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â´ **Fork and accelerate**
 
-<sub>Â© 2026 Devopstrio â€” Enterprise Cloud Â· AI Â· DevOps Acceleration Partner</sub>
+<sub>Ãƒâ€š&copy; 2026 Devopstrio ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Enterprise Cloud Ãƒâ€šÃ‚Â· AI Ãƒâ€šÃ‚Â· DevOps Acceleration Partner</sub>
 
 </div>
+
+
