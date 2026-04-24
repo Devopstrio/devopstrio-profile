@@ -145,24 +145,15 @@ Zero Trust architecture, IAM blueprints & Defender suite automation aligned to C
 
 ---
 
-## Connect With Us
+## Trusted Partnerships & Ecosystem
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| Website | [devopstrio.co.uk](https://devopstrio.co.uk/) |
-| Company Profile | [Download PDF](../assets/COMPANY_PROFILE.pdf) |
-| LinkedIn | [linkedin.com/company/devopstrioglobal](https://www.linkedin.com/company/devopstrioglobal/) |
-| Email | [info@devopstrioglobal.com](mailto:info@devopstrioglobal.com) |
+<img src="../assets/our-trust.png" width="100%" alt="Our Trust" />
 
 <br/>
 
-[![Visit Website](https://img.shields.io/badge/Visit_devopstrio.co.uk-Explore_Our_Work-e79e57?style=for-the-badge&labelColor=522c72)](https://devopstrio.co.uk/)
-
-<br/>
-
-Follow Devopstrio to stay updated on our latest open-source accelerators and enterprise blueprints.
+<img src="../assets/egosystem.png" width="100%" alt="Partner Ecosystem" />
 
 </div>
 
