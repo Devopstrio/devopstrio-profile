@@ -175,21 +175,8 @@ Zero Trust architecture, IAM blueprints & Defender suite automation aligned to C
 
 ## 📄 Company Profile
 
-> Download our full company profile to learn about our services, methodologies, technology stack, and engagement models.
-
 <div align="center">
 
-| | |
-|:---:|:---:|
-| 📥 **Download PDF** | [COMPANY_PROFILE.pdf](../assets/COMPANY_PROFILE.pdf) |
-| 🔗 **View on GitHub** | [Open in GitHub PDF Viewer](https://github.com/Devopstrio/.github/blob/main/assets/COMPANY_PROFILE.pdf) |
-
-<br/>
-
-[![Download Company Profile](https://img.shields.io/badge/⬇️_Download_Now-Company_Profile.pdf-522c72?style=for-the-badge&labelColor=000000&logoColor=white)](../assets/COMPANY_PROFILE.pdf)
-
-<br/>
-
-> 📌 _Click the badge above to download · Or [view it inline on GitHub](https://github.com/Devopstrio/.github/blob/main/assets/COMPANY_PROFILE.pdf)_
+[![Company Profile](../assets/pdf-preview.png)](https://github.com/Devopstrio/.github/blob/main/assets/COMPANY_PROFILE.pdf)
 
 </div>
