@@ -7,7 +7,7 @@
 <p><strong>Enterprise Cloud · AI · DevOps Acceleration</strong></p>
 
 [![Website](https://img.shields.io/badge/Website-devopstrio.co.uk-522c72?style=for-the-badge&labelColor=000000)](https://devopstrio.co.uk/)
-[![Repos](https://img.shields.io/badge/Repos-31_Public-962964?style=for-the-badge&labelColor=000000)](https://github.com/orgs/devopstrio/repositories)
+  <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/Repos-180+_Public-962964?style=for-the-badge&labelColor=000000" alt="Repos"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ce2453?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/company/devopstrioglobal/)
 [![Email](https://img.shields.io/badge/Email-Contact_Us-e79e57?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:info@devopstrioglobal.com)
 [![Company Profile](https://img.shields.io/badge/Company_Profile-Download_PDF-dd5c54?style=for-the-badge&labelColor=000000)](../assets/COMPANY_PROFILE.pdf)
@@ -16,7 +16,7 @@
 
 > **Building the future of enterprise infrastructure — one blueprint at a time.**
 > 
-> 31 open-source accelerators &nbsp;·&nbsp; 5 technology domains &nbsp;·&nbsp; 3 cloud providers &nbsp;·&nbsp; 100% production-grade
+> 180+ open-source accelerators &nbsp;·&nbsp; 15 technology domains &nbsp;·&nbsp; 3 cloud providers &nbsp;·&nbsp; 100% production-grade
 
 </div>
 
