@@ -24,16 +24,9 @@
 
 ## 🏠 Our Website
 
-**[devopstrio.co.uk](https://devopstrio.co.uk/)** — Explore our full portfolio of enterprise cloud, AI, and DevOps solutions.
-
 <div align="center">
 
-[![Homepage](https://img.shields.io/badge/🏠_Homepage-devopstrio.co.uk-522c72?style=flat-square&labelColor=111111)](https://devopstrio.co.uk/)
-[![Services](https://img.shields.io/badge/⚙️_Services-Our_Offerings-962964?style=flat-square&labelColor=111111)](https://devopstrio.co.uk/services)
-[![Repositories](https://img.shields.io/badge/📦_Repositories-Open_Source-ce2453?style=flat-square&labelColor=111111)](https://devopstrio.co.uk/repos)
-[![Insights](https://img.shields.io/badge/📊_Insights-Blog_%26_Updates-dd5c54?style=flat-square&labelColor=111111)](https://devopstrio.co.uk/insights)
-[![About](https://img.shields.io/badge/📋_About-Who_We_Are-e79e57?style=flat-square&labelColor=111111)](https://devopstrio.co.uk/about)
-[![Contact](https://img.shields.io/badge/📬_Contact-Get_In_Touch-10b981?style=flat-square&labelColor=111111)](https://devopstrio.co.uk/contact)
+**[🏠 Homepage](https://devopstrio.co.uk/) &nbsp;&nbsp;•&nbsp;&nbsp; [⚙️ Services](https://devopstrio.co.uk/services) &nbsp;&nbsp;•&nbsp;&nbsp; [📦 Repos](https://devopstrio.co.uk/repos) &nbsp;&nbsp;•&nbsp;&nbsp; [📊 Insights](https://devopstrio.co.uk/insights) &nbsp;&nbsp;•&nbsp;&nbsp; [📋 About](https://devopstrio.co.uk/about) &nbsp;&nbsp;•&nbsp;&nbsp; [📬 Contact](https://devopstrio.co.uk/contact)**
 
 </div>
 
