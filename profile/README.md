@@ -10,12 +10,22 @@
 [![Repos](https://img.shields.io/badge/📦_Repos-18_Public-962964?style=for-the-badge&labelColor=000000)](https://github.com/orgs/devopstrio/repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ce2453?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/company/devopstrioglobal/)
 [![Email](https://img.shields.io/badge/Email-Contact_Us-e79e57?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:info@devopstrioglobal.com)
+[![Company Profile](https://img.shields.io/badge/📄_Company_Profile-Download_PDF-dd5c54?style=for-the-badge&labelColor=000000)](../assets/COMPANY_PROFILE.pdf)
 
 <br/>
 
 > **Building the future of enterprise infrastructure — one blueprint at a time.**
 > 
 > 18 open-source accelerators &nbsp;·&nbsp; 5 technology domains &nbsp;·&nbsp; 3 cloud providers &nbsp;·&nbsp; 100% production-grade
+
+---
+
+### 📄 Company Profile
+
+> Download our full company profile to learn about our services, methodologies, technology stack, and engagement models.
+
+[![Download Company Profile PDF](https://img.shields.io/badge/⬇️_Download-Company_Profile.pdf-522c72?style=for-the-badge&labelColor=1a1a1a)](../assets/COMPANY_PROFILE.pdf)
+
 
 </div>
 
@@ -156,6 +166,7 @@ Zero Trust architecture, IAM blueprints & Defender suite automation aligned to C
 | | |
 |:---:|:---:|
 | 🌐 **Website** | [devopstrio.co.uk](https://devopstrio.co.uk/) |
+| 📄 **Company Profile** | [Download PDF](../assets/COMPANY_PROFILE.pdf) |
 | 💼 **LinkedIn** | [linkedin.com/company/devopstrioglobal](https://www.linkedin.com/company/devopstrioglobal/) |
 | 📧 **Email** | [info@devopstrioglobal.com](mailto:info@devopstrioglobal.com) |
 
