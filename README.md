@@ -7,8 +7,8 @@
 <p><strong>Enterprise Cloud · AI · DevOps Acceleration</strong></p>
 
 <p>
-  <a href="https://devopstrio.co.uk/"><img src="https://img.shields.io/badge/🌐_Website-devopstrio.co.uk-522c72?style=for-the-badge&labelColor=0d0d0d" alt="Website"/></a>
-  <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/📦_Repos-18_Public-962964?style=for-the-badge&labelColor=0d0d0d" alt="Repos"/></a>
+  <a href="https://devopstrio.co.uk/"><img src="https://img.shields.io/badge/Website-devopstrio.co.uk-522c72?style=for-the-badge&labelColor=0d0d0d" alt="Website"/></a>
+  <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/Repos-31_Public-962964?style=for-the-badge&labelColor=0d0d0d" alt="Repos"/></a>
   <a href="https://www.linkedin.com/company/devopstrioglobal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ce2453?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn"/></a>
   <a href="mailto:info@devopstrioglobal.com"><img src="https://img.shields.io/badge/Email-Contact_Us-e79e57?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email"/></a>
 </p>
@@ -16,7 +16,7 @@
 <p><em>Building the future of enterprise infrastructure — one blueprint at a time.</em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/18-Open_Source_Repos-522c72?style=flat-square&labelColor=111" alt="Repos"/>
+  <img src="https://img.shields.io/badge/31-Open_Source_Repos-522c72?style=flat-square&labelColor=111" alt="Repos"/>
   <img src="https://img.shields.io/badge/5-Technology_Domains-962964?style=flat-square&labelColor=111" alt="Domains"/>
   <img src="https://img.shields.io/badge/3-Cloud_Providers-ce2453?style=flat-square&labelColor=111" alt="Clouds"/>
   <img src="https://img.shields.io/badge/100%25-Production_Grade-e79e57?style=flat-square&labelColor=111" alt="Grade"/>
