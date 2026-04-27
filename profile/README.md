@@ -1,22 +1,22 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="../assets/Browser_logo.png" height="72" alt="Devopstrio Logo" />
+<img src="https://raw.githubusercontent.com/Devopstrio/.github/main/assets/Browser_logo.png" height="72" alt="Devopstrio Logo" />
 
 <h1>Devopstrio</h1>
 
-<p><strong>Enterprise Cloud · AI · DevOps Acceleration</strong></p>
+<p><strong>Enterprise Cloud &nbsp;&middot;&nbsp; AI &nbsp;&middot;&nbsp; DevOps Acceleration</strong></p>
 
-[![Website](https://img.shields.io/badge/Website-devopstrio.co.uk-522c72?style=for-the-badge&labelColor=000000)](https://devopstrio.co.uk/)
-  <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/Repos-180+_Public-962964?style=for-the-badge&labelColor=000000" alt="Repos"/></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ce2453?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/company/devopstrioglobal/)
-[![Email](https://img.shields.io/badge/Email-Contact_Us-e79e57?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:info@devopstrioglobal.com)
-[![Company Profile](https://img.shields.io/badge/Company_Profile-Download_PDF-dd5c54?style=for-the-badge&labelColor=000000)](../assets/COMPANY_PROFILE.pdf)
+[![Website](https://img.shields.io/badge/Website-devopstrio.co.uk-522c72?style=for-the-badge&labelColor=0d0d0d)](https://devopstrio.co.uk/)
+  <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/Repos-180+_Public-962964?style=for-the-badge&labelColor=0d0d0d" alt="Repos"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ce2453?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/company/devopstrioglobal/)
+[![Email](https://img.shields.io/badge/Email-Contact_Us-e79e57?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:info@devopstrioglobal.com)
+[![Company Profile](https://img.shields.io/badge/Company_Profile-Download_PDF-dd5c54?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Devopstrio/.github/raw/main/assets/COMPANY_PROFILE.pdf)
 
 <br/>
 
-> **Building the future of enterprise infrastructure — one blueprint at a time.**
+> **Building the future of enterprise infrastructure &mdash; one blueprint at a time.**
 > 
-> 180+ open-source accelerators &nbsp;·&nbsp; 15 technology domains &nbsp;·&nbsp; 3 cloud providers &nbsp;·&nbsp; 100% production-grade
+> 180+ open-source accelerators &nbsp;&middot;&nbsp; 15 technology domains &nbsp;&middot;&nbsp; 3 cloud providers &nbsp;&middot;&nbsp; 100% production-grade
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-**[Homepage](https://devopstrio.co.uk/) &nbsp;&nbsp;•&nbsp;&nbsp; [Services](https://devopstrio.co.uk/services) &nbsp;&nbsp;•&nbsp;&nbsp; [Repos](https://devopstrio.co.uk/repos) &nbsp;&nbsp;•&nbsp;&nbsp; [Insights](https://devopstrio.co.uk/insights) &nbsp;&nbsp;•&nbsp;&nbsp; [About](https://devopstrio.co.uk/about) &nbsp;&nbsp;•&nbsp;&nbsp; [Contact](https://devopstrio.co.uk/contact)**
+**[Homepage](https://devopstrio.co.uk/) &nbsp;&nbsp;Ã¢â‚¬Â¢&nbsp;&nbsp; [Services](https://devopstrio.co.uk/services) &nbsp;&nbsp;Ã¢â‚¬Â¢&nbsp;&nbsp; [Repos](https://devopstrio.co.uk/repos) &nbsp;&nbsp;Ã¢â‚¬Â¢&nbsp;&nbsp; [Insights](https://devopstrio.co.uk/insights) &nbsp;&nbsp;Ã¢â‚¬Â¢&nbsp;&nbsp; [About](https://devopstrio.co.uk/about) &nbsp;&nbsp;Ã¢â‚¬Â¢&nbsp;&nbsp; [Contact](https://devopstrio.co.uk/contact)**
 
 </div>
 
@@ -153,8 +153,8 @@ Zero Trust architecture, IAM blueprints & Defender suite automation aligned to C
 
 <br/><br/>
 
-### *Three pillars form our strength—People, Process, and Technology.*
-### *Three domains shape our focus—Cloud, Data, and AI.*
+### *Three pillars form our strengthÃ¢â‚¬â€People, Process, and Technology.*
+### *Three domains shape our focusÃ¢â‚¬â€Cloud, Data, and AI.*
 **Across Azure, AWS, and GCP, we bring innovation to life. At Devopstrio, we unite DevOps and automation to modernise infrastructure and accelerate digital success.**
 
 <br/><br/>
@@ -223,3 +223,4 @@ EC1V 2NX
 **Devopstrio**
 
 </div>
+
